@@ -1,2 +1,6 @@
-[AlbertCoolGuy's github stats][(https://github-readme-stats.vercel.app/api?username=AlbertCoolGuy&theme=radical)]
-[Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertCoolGuy)]
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=albertcoolguy&theme=radical" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcoolguy" />
+</a>
